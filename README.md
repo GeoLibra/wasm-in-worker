@@ -9,3 +9,6 @@ https://www.sitepen.com/blog/using-webassembly-with-web-workers
 ### wasm-worker
 Move a WebAssembly module into its own thread  
 https://github.com/mbasso/wasm-worker
+
+### Using WebAssembly threads from C, C++ and Rust
+https://web.dev/webassembly-threads/
